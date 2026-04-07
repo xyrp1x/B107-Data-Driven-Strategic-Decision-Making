@@ -1,6 +1,6 @@
 # Reddit Network Analysis Project
 
-This project analyzes the Reddit Hyperlink Network Dataset from SNAP
+This project analyzes the reddit hyperlink network dataset from SNAP
 
 ## Dataset
 Original source: https://snap.stanford.edu/data/soc-RedditHyperlinks.html
