@@ -1,0 +1,46 @@
+REDDIT NETWORK SUMMARY
+nodes: 35776
+edges: 137821
+density: 0.00010768221304640787
+average_clustering: 0.18090101843790973
+num_connected_components: 497
+largest_component_size: 34671
+average_shortest_path_length_giant: 3.913596449752649
+diameter_giant: 11
+average_degree: 7.704662343470483
+
+Top 10 by Degree Centrality
+('askreddit', 0.07055206149545772)
+('iama', 0.056743535988819004)
+('subredditdrama', 0.05042627533193571)
+('writingprompts', 0.031949685534591196)
+('outoftheloop', 0.030719776380153736)
+('pics', 0.026750524109014674)
+('videos', 0.024654088050314465)
+('leagueoflegends', 0.02328441649196366)
+('todayilearned', 0.02280922431865828)
+('gaming', 0.022641509433962263)
+
+Top 10 by Betweenness Centrality
+('iama', 0.06304893263592456)
+('subredditdrama', 0.06218210524298865)
+('askreddit', 0.05780007999980554)
+('outoftheloop', 0.029959782379159607)
+('leagueoflegends', 0.02699615670566745)
+('writingprompts', 0.02055133576012375)
+('the_donald', 0.016265469565870796)
+('ideasfortheadmins', 0.016186177034520275)
+('tifu', 0.013979202231944899)
+('gaming', 0.013732996580310287)
+
+Top 10 by Closeness Centrality
+('askreddit', 0.3139439724063652)
+('iama', 0.30456464083406126)
+('videos', 0.28783547898976797)
+('pics', 0.28284101822714164)
+('todayilearned', 0.2819160099096996)
+('funny', 0.27542653057171446)
+('worldnews', 0.27439665150176157)
+('gaming', 0.2738030815094015)
+('outoftheloop', 0.27216723315680397)
+('technology', 0.27074112827298086)
