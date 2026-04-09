@@ -1,7 +1,7 @@
 # Social Network Analysis Report: Reddit Hyperlink Network
 
 ## GitHub Repository
-[Paste your GitHub repository link here]
+[https://github.com/xyrp1x/B107-Data-Driven-Strategic-Decision-Making]
 
 ## 1. Introduction
 This report analyzes a Reddit hyperlink interaction network constructed from the Reddit Hyperlink Network Dataset published by the Stanford Network Analysis Project (SNAP). In this network, nodes represent subreddits and edges represent hyperlink references between communities. The aim of the project is to investigate the structural properties of the network and compare them with three well-known random graph models: Erdős–Rényi (ER), Barabási–Albert (BA), and Watts–Strogatz (WS).
